@@ -1,2 +1,2 @@
 # Pykovisk
-Some of the projects i create when i'm drunk and listening to Pink Floyd
+Applications examples of Python libraries and functions to be used as you wish
