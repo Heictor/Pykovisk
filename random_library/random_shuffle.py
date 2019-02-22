@@ -9,6 +9,10 @@ import random
 
 #Shuffles values inside a choosen range
 deck = list(range(1, 53))
-random.shuffle(deck)
 print(deck)
+print("------")
 
+
+
+for x in deck:
+    print(random.choice(deck))
