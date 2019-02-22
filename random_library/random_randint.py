@@ -10,4 +10,4 @@ import random
 
 #Prints a random integer value between x(inclusive) and y(also inclusive)
 value_xy = random.randint(1,10)
-print(value_xy,"\n")
+print(value_xy)
