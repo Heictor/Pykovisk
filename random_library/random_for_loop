@@ -1,0 +1,9 @@
+import random
+
+#Shuffles values inside a choosen range
+deck = list(range(1, 53))
+print(deck)
+print("------")
+
+for x in deck:
+    print(random.choice(deck))
