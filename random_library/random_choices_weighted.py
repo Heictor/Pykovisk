@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 13 03:50:00 2019
-
-@author: heict
-"""
-
 
 import random
 
@@ -15,5 +8,5 @@ print(roulette_wheel)
 
 
 '''
-Run the code mutiple times to notice the "green" item is the one less picked 
+Run the code mutiple times to notice the "green" item is the one less picked
 '''

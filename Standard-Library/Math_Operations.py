@@ -1,17 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 13 11:34:55 2018
-
-@author: heict
-"""
-
 '''
 On this file you're going to learn about some simple math tools
-Of course, these are the most basci examples
-for more complex calculation you'll need some libraries
+Of course, these are the most basic examples
+For more complex calculation you'll need some libraries
 '''
 
-#Math BaSic Operators + - / *
+#Math Basic Operators + - / *
 
 #Adding
 print(7+5)
@@ -26,4 +19,3 @@ print(7.0/5)
 print(7*5)
 #Exponentiating
 print(7**5)
-

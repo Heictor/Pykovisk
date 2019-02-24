@@ -1,24 +1,18 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  8 09:38:13 2019
-
-@author: heict
-"""
-
+#Declare the variables as you wish
 x = (float(input('Insira o valor de x: \n')))
 y = (float(input('Insira o valor de y: \n')))
 
 if x>y:
-    print('x é maior que y')
+    print('x greatter than y')
 elif x<y:
-    print('x é menor que y')
+    print('x is minor than y')
 elif x>=y:
-    print('x é maior ou igual que y')
+    print('x is greater or equal to y')
 elif x<=y:
-    print('x é menor ou igual que y')
+    print('x is minor or equal to y')
 elif x!=y:
-    print('x é diferente de y')
+    print('x is different to y')
 elif x==y:
-    print('x é igual a y')
+    print('x is equal to y')
 else:
     print('nenhuma condição foi satisfeita')

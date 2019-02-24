@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 12 03:49:03 2019
-
-@author: heict
-"""
 
 import random
 

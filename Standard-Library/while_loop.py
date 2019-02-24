@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 17 20:21:42 2018
-
-@author: heict
-"""
-
 myVariable = 1 #Declare the value of your variable(s)
 
 while myVariable < 10: #First you gotta define a condition
